@@ -13,3 +13,6 @@
 
 # Example/Format of Role Definition : 
 {'role1': [{'resource': 'R3', 'action': 'delete'}, {'resource': 'R4', 'action': 'write'}]}
+
+# LIVE LINK 
+https://colab.research.google.com/drive/1wjt8SJrRn-L8qwMci2Ozmt4NfoVLU3vX?usp=sharing
